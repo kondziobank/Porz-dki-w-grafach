@@ -1,2 +1,2 @@
-# Porz-dki-w-grafach
+# Porzadki-w-grafach
 PRE-order In-order POST-order 
